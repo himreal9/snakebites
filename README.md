@@ -14,5 +14,9 @@ npm run serve
 ```
 npm run build
 ```
+
+##**You can open directly by going to dict folder and open index.html**
+
+
 **Sreenshot-**
 ![image](https://github.com/himreal9/snakebites/blob/main/SnakeBites.png)
