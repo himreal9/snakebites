@@ -86,9 +86,10 @@ export default {
           this.currPosition += this.num;
         for (let i=0; i<this.snakes.length; i++) {
           if (this.currPosition == this.snakes[i][0]) {
+            var oldposition = this.currPosition;
             this.currPosition = this.snakes[i][1];
             this.log += `
-Snake Bite`;
+Snake Bite : ${oldposition} to ${this.currPosition}`;
           }
         }
         if (this.currPosition == 0 && x == 6) this.currPosition += 1;
