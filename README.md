@@ -1,4 +1,4 @@
-##SnakeBites
+**SnakeBites**
 
 ## Project setup
 ```
@@ -14,5 +14,5 @@ npm run serve
 ```
 npm run build
 ```
-##Sreenshot-
+**Sreenshot-**
 ![image](https://github.com/himreal9/snakebites/blob/main/SnakeBites.png)
