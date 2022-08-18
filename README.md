@@ -1,5 +1,7 @@
 ## SnakeBites
 
+## Test it on - https://snake-bites.netlify.app/
+
 ## Project setup
 ```
 npm install
