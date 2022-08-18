@@ -221,7 +221,7 @@ Congratulations You Won!`;
 .popup {
   position: absolute;
   width: 98vw;
-  height: 116vh;
+  height: 130vh;
   top: 0;
   left: 0;
   background: #3030305a;
