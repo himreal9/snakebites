@@ -1,4 +1,4 @@
-**SnakeBites**
+## SnakeBites
 
 ## Project setup
 ```
@@ -18,5 +18,5 @@ npm run build
 **You can open directly by going to dict folder and open index.html**
 
 
-**Sreenshot-**
+### Sreenshot-
 ![image](https://github.com/himreal9/snakebites/blob/main/SnakeBites.png)
